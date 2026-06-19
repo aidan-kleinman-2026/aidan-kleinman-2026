@@ -2,12 +2,12 @@
 ## "Hello World!", my name is Aidan Kleinman! 👋
 
 
-- 🎓 Graduated from The Pennsylvania State University with a B.S. in Data Science.
-- 🏫 Currently at Middle Tennessee State University working on a M.S. in Data Science.
+- 🎓 Graduated from The Pennsylvania State University with a B.S. in Computational Data Science.
+- 🏫 Recently graduated from Middle Tennessee State University with a M.S. in Data Science.
 
 ---
 
-- 🔭 I’m currently working on my Master's degree.
+- 🔭 I’m just finished work on my Master's degree.
 - 🌱 I’m currently learning data cleaning, modeling, and visualization.
 - 👯 I’m looking to collaborate on a data science project.
 - 🤔 I’m looking for help with programming/artificial intelligence.
