@@ -7,7 +7,7 @@
 
 ---
 
-- 🔭 I’m just finished work on my Master's degree.
+- 🔭 I just finished work on my Master's degree.
 - 🌱 I’m currently learning data cleaning, modeling, and visualization.
 - 👯 I’m looking to collaborate on a data science project.
 - 🤔 I’m looking for help with programming/artificial intelligence.
